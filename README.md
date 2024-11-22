@@ -24,7 +24,6 @@ Decrease cancellation rates to increase revenue.
 Explore other platforms or unrecognized sources contributing to around 40% of total revenue.
 ## EDA Summary
 The exploratory data analysis (EDA) conducted in Python pandas revealed insights such as revenue distribution, property performance, and guest behavior.
-Various visualizations and statistical analyses were performed to understand trends and patterns in the data.
 ## Future Work
 Implement strategies to increase guest ratings and reduce cancellations.
 Further analyze revenue fluctuations to identify underlying factors and optimize revenue streams.
